@@ -28,7 +28,10 @@ def shift_with_args(array)
 end
 # removes first 2 elements from the array
 
-def
+def using_concat(array_one,array_two)
+  
+end
+# adds 2 arrays together
 
 
 
