@@ -34,7 +34,7 @@ end
 # adds 2 arrays together
 
 def using_insert(array,element)
-  array.insert(element:4)
+  array.insert(4,element)
 end
 # inserts element in the 4th index of the array
 
