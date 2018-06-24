@@ -54,7 +54,7 @@ end
 # removes elements in the array that are equal to the input string
 
 def using_delete_at(array,integer)
-  array.delete(integer)
+  array.delete_at(integer)
 end
 # deletes element at specific index equal to the input integer 
 
