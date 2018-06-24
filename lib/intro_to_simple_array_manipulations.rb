@@ -43,7 +43,10 @@ def using_uniq(array)
 end
 # removes duplicate items in an array
 
-
+def using_flatten(array)
+  array.flatten
+end
+# returns an array of strings
 
 
 
