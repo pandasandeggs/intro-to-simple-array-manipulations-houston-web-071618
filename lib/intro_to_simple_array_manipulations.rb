@@ -48,6 +48,10 @@ def using_flatten(array)
 end
 # returns an array of strings
 
+def using_delete(array,string)
+end
+# removes elements in the array that are equal to string
+
 
 
 
