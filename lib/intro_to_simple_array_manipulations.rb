@@ -39,6 +39,8 @@ end
 # inserts element in the 4th index of the array
 
 def using_uniq(array)
+end
+# removes duplicate items in an array
 
 
 
