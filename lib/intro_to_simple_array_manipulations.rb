@@ -49,7 +49,7 @@ end
 # returns an array of strings
 
 def using_delete(array,string)
-  array.delete( == string)
+  array.delete(string)
 end
 # removes elements in the array that are equal to the input string
 
