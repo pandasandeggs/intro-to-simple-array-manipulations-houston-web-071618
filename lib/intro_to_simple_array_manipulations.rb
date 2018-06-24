@@ -38,6 +38,15 @@ def using_insert(array,element)
 end
 # inserts element in the 4th index of the array
 
+def using_uniq(array)
+
+
+
+
+
+
+
+
 
 
 
